@@ -61,7 +61,7 @@ const MainContent = () => {
     return (
         <>
             <Headline>Ansel Colvin</Headline>
-            <SubHeadline>Senior Engineer</SubHeadline>
+            <SubHeadline>Senior Web Engineer</SubHeadline>
             <DownloadButton />
         </>
     )
