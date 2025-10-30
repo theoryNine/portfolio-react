@@ -27,7 +27,7 @@ const HeroContainer = styled.div`
 
   &:hover {
     img {
-      transform: translateY(-8px);
+      transform: translateY(-50px);
     }
   }
 
