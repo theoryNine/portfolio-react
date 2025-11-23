@@ -26,9 +26,9 @@ const Skills = () => {
                 <SkillCard toolName="Adobe Experience Manager" />
                 <SkillCard toolName="TypeScript" />
                 <SkillCard toolName="Artificial Intelligence" />
-                <SkillCard toolName="SASS/LESS/Stylus" />
+                <SkillCard toolName="SASS" />
                 <SkillCard toolName="UI Libraries (i.e. MUI)" />
-                <SkillCard toolName="Styled Components" />
+                <SkillCard toolName="Jest and Cypress" />
             </SkillCardGrid>
             <SectionHeading align="center" content="I Often Tinker With..." />
             <SkillCardGrid>
